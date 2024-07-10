@@ -38,4 +38,4 @@ Our model generates output in binary value (1 or 0), where 1 indicates compound 
  
 **Please make sure to keep all the required files (CYP2C9.pkl, data_preprocessing.py, scaler, featuers.txt, inputfile.csv, model.py)in the working directory**
 
-**To download the prediction model file (CYP2C9.pkl), please refer to the "Tag --> v2.3.4" tab**
+**To download the prediction model file (CYP2C9.pkl), please refer to the "Tags --> v2.3.4" tab**
